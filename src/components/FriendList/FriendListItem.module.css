@@ -1,0 +1,12 @@
+.online {
+  color: green;
+}
+.offline {
+  color: red;
+}
+
+.listItemWrapper {
+  border: 2px solid rgb(100, 99, 99);
+  border-radius: 10%;
+  padding: 10px;
+}
